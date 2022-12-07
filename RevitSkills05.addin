@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitSkills05</Text>
+    <Description>Some description for RevitSkills05</Description>
+    <Assembly>RevitSkills05.dll</Assembly>
+    <FullClassName>RevitSkills05.Command</FullClassName>
+    <ClientId>1ee6d4ee-fae9-474a-82db-b66c6c261f29</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitSkills05</Name>
+    <Assembly>RevitSkills05.dll</Assembly>
+    <FullClassName>RevitSkills05.App</FullClassName>
+    <ClientId>511db854-7374-44d9-897b-23299bcf57e7</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
